@@ -30,7 +30,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 ### Internships
 
 `January 2028 - June 2028`
-__Pacific Northwest National Lab llloooooolllll__, Richland, WA
+__Pacific Northwest National dsfsdfLab llloooooolllll__, Richland, WA
 
 - Worked on novel methods for soil sampling to reduce laboratory measurements
 - Used R and Visual Sample Plan to establish new sampling algorithms
