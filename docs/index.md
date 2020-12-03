@@ -16,6 +16,7 @@ Compute Science with a minor in Data Science student at BYU-I
 ## Education
 
 `2019-2020`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 
 - Lab tutor and teacher's assistant for Database Design and development
