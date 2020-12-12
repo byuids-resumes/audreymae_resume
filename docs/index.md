@@ -1,7 +1,3 @@
----
-layout: cv
-title: Brigham Young's Resume
----
 # Audrey Mae Moncada
 <div id="webaddress">
 <a href="moncada.audreymae2@gmail.com">moncada.audreymae2@gmail.com</a>
@@ -49,6 +45,7 @@ C++  | Python  |  R  |  MySQL  | NoSQL| JavaScript | JSON | HTML | CSS
 ### Work Experience
 
 `January 2019 - Present`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 *Teacher's Assistant: Data Programming*
 
@@ -58,6 +55,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 `January 2019 - Present`
+
 __Brigham Young University - Idaho__, Rexburg, ID
 *Teacher's Assistant: Database Design & Development*
 
@@ -66,6 +64,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 * Mastered the knowledge of structured query language with DDL and DML commands, developing and implementing stream-lined processes for internal database with SQL
 
 `May 2019 - September 2020`
+
 __The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
 *Database Engineer Intern*
 - Analyzed raw data and improved data quality and efficiency
@@ -76,22 +75,27 @@ __The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
 ## Related Experiences
 
 `2020 - present`
+
 __Association for Computing Machinery__, Vice President
 
 
 `2020 - present`
+
 __Data Science Society__, Family Data Analyst
 
 
 `2020 `
+
 __Association for Computing Machinery__, Advertising Design Specialist
 
 
 `2019 - 2020`
+
 __Fake News Detection Project__, Machine Learning Prediction
 
 
 `2019-2020`
+
 __Teach One Another Group Project__, Lead in Teaching Database Development during volunteered Laboratory meetings
 
 
