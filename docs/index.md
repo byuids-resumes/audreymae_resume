@@ -17,8 +17,9 @@ title: Audrey Mae Moncada's Resume
 `2019-2022`
 
 __Brigham Young University - Idaho__, Rexburg, ID
+
 **GPA: 4.00**
-*BS Computer Science | Minor in Data Science*
+*BS Computer Science* *| Minor in Data Science*
 
 Relevant Coursework:
 * Big Data and Programming Analysis
@@ -29,7 +30,6 @@ Relevant Coursework:
 
 Extracurricular Activities:
 * Vice President and Advertising Design Specialist | Association for Computing Machinery
-
 * Data Analyst for family court data | Data Science Society
 
 
@@ -38,11 +38,11 @@ Extracurricular Activities:
 
 ## Skills
 
-**Technical Proficiencies**
+**Technical Proficiencies:**
 Tableau | Relational Database | PowerBI | Oracle | MongoDB  | Matlab | Microsoft Office
 
 
-**Dev**
+**Dev:**
 C++  | Python  |  R  |  MySQL  | NoSQL| JavaScript | JSON | HTML | CSS
 
 
@@ -52,6 +52,7 @@ C++  | Python  |  R  |  MySQL  | NoSQL| JavaScript | JSON | HTML | CSS
 `January 2019 - Present`
 
 __Brigham Young University - Idaho__, Rexburg, ID
+
 *Teacher's Assistant: Data Programming*
 
 * Provided technical assistance for managing and manipulating large data sets to deliver reports that outlines factual conclusions. 
@@ -62,6 +63,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `January 2019 - Present`
 
 __Brigham Young University - Idaho__, Rexburg, ID
+
 *Teacher's Assistant: Database Design & Development*
 
 * Provided additional support to students and graded course materials, projects through Oracle Database 
@@ -71,6 +73,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 `May 2019 - September 2020`
 
 __The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
+
 *Database Engineer Intern*
 - Analyzed raw data and improved data quality and efficiency
 - Used ETL process and testing to collect data from multiple sources to comply with data warehouse standards
