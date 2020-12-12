@@ -1,3 +1,8 @@
+---
+layout: cv
+title: Trevor Neri's Resume
+---
+
 # Audrey Mae Moncada
 <div id="webaddress">
 <a href="moncada.audreymae2@gmail.com">moncada.audreymae2@gmail.com</a>
