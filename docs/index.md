@@ -39,11 +39,13 @@ Extracurricular Activities:
 
 ## Skills
 
-**Technical Proficiencies:** <br /> Tableau | Relational Database | PowerBI | Oracle | MongoDB  | Matlab | Microsoft Office
+**Technical Proficiencies:**
 
+<span>Tableau | Relational Database | PowerBI | Oracle | MongoDB  | Matlab | Microsoft Office</span>
 
-**Dev:** <br /> C++  | Python  |  R  |  MySQL  | NoSQL| JavaScript | JSON | HTML | CSS
+**Dev:**
 
+<span>C++  | Python  |  R  |  MySQL  | NoSQL| JavaScript | JSON | HTML | CSS</span>
 
 
 ## Work Experience
