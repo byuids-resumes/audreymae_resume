@@ -31,6 +31,7 @@ Relevant Coursework:
 
 Extracurricular Activities:
 <span> Vice President and Advertising Design Specialist | Association for Computing Machinery</span>
+
 <span>Data Analyst for family court data | Data Science Society</span>
 
 
