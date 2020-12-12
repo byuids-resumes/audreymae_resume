@@ -24,7 +24,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 
 
-*BS Computer Science* *| Minor in Data Science*
+*BS Computer Science with a Minor in Data Science*
 
 Relevant Coursework:
 > * Big Data and Programming Analysis
