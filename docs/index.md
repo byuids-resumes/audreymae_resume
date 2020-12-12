@@ -42,7 +42,7 @@ C++  | Python  |  R  |  MySQL  | NoSQL| JavaScript | JSON | HTML | CSS
 
 
 
-### Work Experience
+## Work Experience
 
 `January 2019 - Present`
 
