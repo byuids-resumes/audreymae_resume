@@ -58,9 +58,9 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 *Teacher's Assistant: Data Programming*
 
-* Provided technical assistance for managing and manipulating large data sets to deliver reports that outlines factual conclusions. 
-* Conducted data analysis with students to broaden their quantitative and analytical abilities of programs using Python and its libraries (i.e. machine learning, altair, pandas, numpy), SQL, JSON
-* Executed corrections and solutions to student's questions and collaborated with team member to identify opportunities for improvement
+> * Provided technical assistance for managing and manipulating large data sets to deliver reports that outlines factual conclusions. 
+> * Conducted data analysis with students to broaden their quantitative and analytical abilities of programs using Python and its libraries (i.e. machine learning, altair, pandas, numpy), SQL, JSON
+> * Executed corrections and solutions to student's questions and collaborated with team member to identify opportunities for improvement
 
 
 `January 2019 - Present`
@@ -69,18 +69,18 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 *Teacher's Assistant: Database Design & Development*
 
-* Provided additional support to students and graded course materials, projects through Oracle Database 
-* Implemented laboratory time for 18 hours a week to maximize students in their learning and modified the schema of a database system using PLSQL
-* Mastered the knowledge of structured query language with DDL and DML commands, developing and implementing stream-lined processes for internal database with SQL
+> * Provided additional support to students and graded course materials, projects through Oracle Database 
+> * Implemented laboratory time for 18 hours a week to maximize students in their learning and modified the schema of a database system using PLSQL
+> * Mastered the knowledge of structured query language with DDL and DML commands, developing and implementing stream-lined processes for internal database with SQL
 
 `May 2019 - September 2020`
 
 __The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
 
 *Database Engineer Intern*
-- Analyzed raw data and improved data quality and efficiency
-- Used ETL process and testing to collect data from multiple sources to comply with data warehouse standards
-- Improved large volumes of data over 400 from internal and external sources to employ sophisticated analytics programs, machine learning and statistical methods
+> * Analyzed raw data and improved data quality and efficiency
+> * Used ETL process and testing to collect data from multiple sources to comply with data warehouse standards
+> * Improved large volumes of data over 400 from internal and external sources to employ sophisticated analytics programs, machine learning and statistical methods
 
 
 ## Related Experiences
