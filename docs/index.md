@@ -12,6 +12,8 @@ title: Audrey Mae Moncada's Resume
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+---
+
 ## Education
 
 `2019-2022`
@@ -35,9 +37,7 @@ Extracurricular Activities:
 
 <span>Data Analyst for family court data | Data Science Society</span>
 
-
-
-
+---
 
 ## Skills
 
@@ -49,6 +49,7 @@ Extracurricular Activities:
 
 <span>C++  | Python  |  R  |  MySQL  | NoSQL| JavaScript | JSON | HTML | CSS</span>
 
+---
 
 ## Work Experience
 
@@ -56,7 +57,7 @@ Extracurricular Activities:
 
 __Brigham Young University - Idaho__, Rexburg, ID
 
-*Teacher's Assistant: Data Programming*
+### *Teacher's Assistant: Data Programming*
 
 > * Provided technical assistance for managing and manipulating large data sets to deliver reports that outlines factual conclusions. 
 > * Conducted data analysis with students to broaden their quantitative and analytical abilities of programs using Python and its libraries (i.e. machine learning, altair, pandas, numpy), SQL, JSON
@@ -67,7 +68,7 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 __Brigham Young University - Idaho__, Rexburg, ID
 
-*Teacher's Assistant: Database Design & Development*
+### *Teacher's Assistant: Database Design & Development*
 
 > * Provided additional support to students and graded course materials, projects through Oracle Database 
 > * Implemented laboratory time for 18 hours a week to maximize students in their learning and modified the schema of a database system using PLSQL
@@ -77,11 +78,12 @@ __Brigham Young University - Idaho__, Rexburg, ID
 
 __The Church of Jesus Christ of Latter-day Saints__, Riverton, UT
 
-*Database Engineer Intern*
+### *Database Engineer Intern*
 > * Analyzed raw data and improved data quality and efficiency
 > * Used ETL process and testing to collect data from multiple sources to comply with data warehouse standards
 > * Improved large volumes of data over 400 from internal and external sources to employ sophisticated analytics programs, machine learning and statistical methods
 
+---
 
 ## Related Experiences
 
